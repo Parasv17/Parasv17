@@ -1,7 +1,7 @@
 # Hi there, I'm Paras Verma! 👋
 
 I'm a passionate web developer with a focus on creating seamless and efficient applications.
-Currently, I'm diving into the world of TypeScript to enhance my skills even further.
+
 
 ## About Me
 
